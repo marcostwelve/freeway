@@ -18,8 +18,8 @@ Projeto desenvolvido no treinamento de lógica de programação da Alura. <br/>
 <br>
   <p> Imagem demostração do jogo </p>
   
-   ![imagemJogo](https://user-images.githubusercontent.com/94411600/221073665-42ac08bc-fd64-40f9-b4d2-496c005c7343.gif)
-  
+  ![Imagem-freeway](https://user-images.githubusercontent.com/94411600/221079347-a5981c76-eb6b-4e54-8405-014248c10304.gif)
+
 
 ## 🚀 Tecnologias
 
