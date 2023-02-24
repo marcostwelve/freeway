@@ -16,10 +16,10 @@ Projeto desenvolvido no treinamento de lógica de programação da Alura. <br/>
 </p>
 
 <br>
-
-<p align="center">
-  <img alt="projeto Freeway" src=".github/preview.jpg" width="100%">
-</p>
+  <p> Imagem demostração do jogo </p>
+  
+   ![imagemJogo](https://user-images.githubusercontent.com/94411600/221073665-42ac08bc-fd64-40f9-b4d2-496c005c7343.gif)
+  
 
 ## 🚀 Tecnologias
 
@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Freeway é um jogo retrô muito divertido.
 
-- [visite o projeto online](https://marcostwelve.github.io/nlw-setup)
+- [visite o projeto online](https://editor.p5js.org/marcosnyan12/full/L5xo2BjzE)
 
 
 ## :memo: Licença
