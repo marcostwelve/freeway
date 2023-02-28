@@ -19,6 +19,7 @@ Projeto desenvolvido no treinamento de lógica de programação da Alura. <br/>
   <p> Imagem demostração do jogo </p>
   
   ![Imagem-freeway](https://user-images.githubusercontent.com/94411600/221079347-a5981c76-eb6b-4e54-8405-014248c10304.gif)
+  ![Imagem-freeway](https://user-images.githubusercontent.com/94411600/221079347-a5981c76-eb6b-4e54-8405-014248c10304.gif)
 
 
 ## 🚀 Tecnologias
