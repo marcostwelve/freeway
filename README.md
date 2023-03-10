@@ -34,6 +34,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Freeway é um jogo retrô muito divertido.
 
+## Como Jogar:
+
+```
+Utilze as teclas de seta para cima para andar para frente e seta para baixo, para voltar.
+```
+
 - [visite o projeto online](https://editor.p5js.org/marcosnyan12/full/L5xo2BjzE)
 
 
